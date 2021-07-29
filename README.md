@@ -2,6 +2,7 @@
 ## 코로나가 종식될 때 까지
 ### 황현성, 김채운, 이건호 
 
+![ramen-2199962_640](https://user-images.githubusercontent.com/88136772/127469980-b762764f-1402-4ec0-920a-67609ed12e75.jpg)
 
 
 ## Welcome to 황현성 pages
