@@ -26,7 +26,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-https://cdn.pixabay.com/photo/2021/02/22/00/06/disinfection-6038290_960_720.jpg
+[1 긴자 외간](https://cdn.pixabay.com/photo/2021/02/22/00/06/disinfection-6038290_960_720.jpg)
 
 
 
