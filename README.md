@@ -3,8 +3,6 @@
 ### 제작:황현성, 김채운, 이건호 
 
 
-![ramen-2199962640](https://pixabay.com/get/gb5a67f1dbb06096262900f23dac751187301e1a815a6f564aa2fa730182a0a5ffa3a75da3993f90a71ffe4f71b8a4573_640.png)
-
 
 
 ## Welcome to 황현성 pages
